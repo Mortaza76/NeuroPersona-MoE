@@ -411,5 +411,10 @@ Acknowledgements
 This project is an end-to-end example of how to combine routing, local LLMs, memory, and visual analytics into a coherent, explainable AI system.
 
 
+<img width="1438" height="814" alt="Screenshot 2025-11-18 at 2 26 37 PM" src="https://github.com/user-attachments/assets/a3a76cbd-1e81-4c7b-886a-781f36ca3057" />
+<img width="329" height="504" alt="Screenshot 2025-11-18 at 2 26 52 PM" src="https://github.com/user-attachments/assets/062132b4-264e-42b2-995b-4f8d994186de" />
+<img width="1426" height="761" alt="Screenshot 2025-11-18 at 2 28 07 PM" src="https://github.com/user-attachments/assets/adcdb34f-d737-442d-8a0f-9dffcd9a7c39" />
+<img width="496" height="395" alt="Screenshot 2025-11-18 at 2 28 35 PM" src="https://github.com/user-attachments/assets/17c1e93c-4652-477b-af66-374be05ecc75" />
+<img width="344" height="506" alt="Screenshot 2025-11-18 at 2 28 48 PM" src="https://github.com/user-attachments/assets/a4bc2bcb-dba5-4c6a-b287-9493af55d603" />
 
 
